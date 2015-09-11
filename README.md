@@ -1,2 +1,2 @@
 # lysecondindex
-creating a new branch is feature1...
+creating a new branch feature1
